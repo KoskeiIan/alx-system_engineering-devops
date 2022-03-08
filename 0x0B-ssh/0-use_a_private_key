@@ -2,4 +2,4 @@
 # connects to aremote server using ssh
 # and private key at ~/.ssh/hoolberton
 
-ssh -i ~/.ssh/hoberton ubuntu@34.138.112.118
+ssh -i ~/.ssh/school ubuntu@34.138.112.118
